@@ -1,4 +1,4 @@
-astpipeline {
+pipeline {
     agent any
 
     parameters {
